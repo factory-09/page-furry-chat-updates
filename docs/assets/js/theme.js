@@ -1,0 +1,9 @@
+'use strict';
+
+discord_getMessages(
+	'#data-updates',
+	'303327594793795588',
+	'442426422594633738',
+	'100',
+	'TlRNNE5qZzFPREF4TVRRME1qVTBORGMxLkR5NW9fQS5mbTlpdkxCYUt2aTlaZE5JRW9KUGtSQ0Q1V0k='
+);
