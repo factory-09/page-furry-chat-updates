@@ -5,12 +5,14 @@ fonts:
   - https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css
 
 styles:
+  - https://cdn.jsdelivr.net/npm/@fancyapps/fancybox/dist/jquery.fancybox.min.css
   - https://cdn.jsdelivr.net/npm/bulma/css/bulma.min.css
   - https://cdn-storage.github.io/styles/theme/theme.css
 
 scripts:
   - https://cdn.jsdelivr.net/npm/jquery
   - https://cdn.jsdelivr.net/npm/clipboard
+  - https://cdn.jsdelivr.net/npm/@fancyapps/fancybox/dist/jquery.fancybox.min.js
   - https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js
   - https://cdn-storage.github.io/scripts/discord/discord.api.min.js
   - https://cdn-storage.github.io/scripts/discord/discord.get.messages.min.js
