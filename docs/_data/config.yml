@@ -11,6 +11,7 @@ styles:
 scripts:
   - https://cdn.jsdelivr.net/npm/jquery
   - https://cdn.jsdelivr.net/npm/clipboard
+  - https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js
   - https://cdn-storage.github.io/scripts/discord/discord.api.min.js
   - https://cdn-storage.github.io/scripts/discord/discord.get.messages.min.js
   - https://cdn-storage.github.io/scripts/bulma/bulma.min.js
