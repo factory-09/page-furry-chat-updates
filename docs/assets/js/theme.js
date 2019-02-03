@@ -1,6 +1,6 @@
 'use strict';
 
-discord_getMessages(
+discordMessages.run(
 	'#data-updates',
 	'303327594793795588',
 	'442426422594633738',
